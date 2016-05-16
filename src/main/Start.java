@@ -1,7 +1,5 @@
 package main;
 //Author: Jon Klenzman, Jorge FM.
-//Complete? No.
-//Checked? --.
 import java.text.DecimalFormat;
 import java.util.Random;
 import java.util.Scanner;
