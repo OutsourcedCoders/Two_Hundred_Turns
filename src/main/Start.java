@@ -1,5 +1,6 @@
 package main;
-//Author: Jon Klenzman, Jorge FM.
+//Author: Jon Klenzman, Jorge FM, probably Andy Zehng.
+
 import java.text.DecimalFormat;
 import java.util.Random;
 import java.util.Scanner;
